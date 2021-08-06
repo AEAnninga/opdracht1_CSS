@@ -1,0 +1,65 @@
+@font-face {
+    font-family: SpecialElite-Regular;
+    src: url(SpecialElite-Regular.ttf);
+}
+
+body {
+    font-family: SpecialElite-Regular;
+    background-color:rgba(102, 153, 204, 0.068);
+    background-image: url("../images/cello_kodaly.jpg");      
+}
+
+h2 {
+    color:rgb(55, 78, 105);
+    text-shadow:3px 10px 3px #69C;
+    font-size: 2em;
+}
+
+h1, h4, p, li, a {
+
+    color:rgb(55, 78, 105);
+}
+
+hr{
+    border-top:5px solid #69C;
+    border-radius: 5px;
+}
+
+div.border {    
+    border-style: solid;
+    border-color: #69C #69C #69C rgba(255, 255, 255, 0);
+    border-width: 0 0 7.25em 3em;
+    margin: -0.25em 0 0 0;
+    padding: 0;
+    float: left;
+    clear: left;
+}
+
+.plaatje {
+    border-style:double;
+    border-color: #69C #69C #69C #69C;
+    border-width: 0.3em;
+    width: 300px;
+}
+
+.logo {
+    width:75px;
+    margin-left: 20px;
+    }
+
+ .logobeer {
+    width:30px;
+    margin-left: 20px;
+
+ }   
+
+.borderline {
+    border-top:5px solid #69C;
+    border-radius: 5px;    
+}
+
+
+
+
+
+
